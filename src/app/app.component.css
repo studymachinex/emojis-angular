@@ -1,0 +1,19 @@
+.emoji-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .emoji-container input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .emoji-container button {
+    font-size: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
